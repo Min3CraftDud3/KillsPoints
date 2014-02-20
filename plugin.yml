@@ -1,0 +1,8 @@
+name: KillsPoints
+version: 1.0
+main: me.rf2minecraft.killspoints.KillsPoints
+author: RF2Minecraft
+
+commands:
+  points:
+    description: Commands for KillsPoints.
